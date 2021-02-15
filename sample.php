@@ -1,3 +1,7 @@
+<?php
+    $result = '無し';
+?>
+
 <!DOCTYPE html>
 <html lang="ja">
     <head>
